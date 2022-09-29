@@ -30,7 +30,6 @@ int main()
      printf("Enter your age: ");
      scanf("%u", &age);
      averageGrade = (double)(grade1 + grade2 + grade3) / 3;
-    system("cls");
      printf("%s", University);
      printf("\n%s", Faculty);
      printf("\n%s", GroupName);
